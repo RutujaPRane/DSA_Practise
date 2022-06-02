@@ -1,4 +1,4 @@
-package Properties.inheritance;
+package OOP.properties.inheritance;
 
 public class Box {
     double l;

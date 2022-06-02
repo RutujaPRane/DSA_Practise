@@ -1,4 +1,4 @@
-package Properties.inheritance;
+package OOP.properties.inheritance;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +11,8 @@ public class Main {
         //so error
         //BoxWeight box2=new Box(2,3,4,9);
         //System.out.println(box2.l+" "+box2.weight);
+
+        BoxPrice B = new BoxPrice(3,5,200);
 
     }
 }
