@@ -9,8 +9,7 @@ public class PassinginFunctions {
         change(arr);
         System.out.println(Arrays.toString(arr));
     }
-
-     static void change(int[] arr) {
+    static void change(int[] arr) {
         arr[1] = 67;
     }
 }
