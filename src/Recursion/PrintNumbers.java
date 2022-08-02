@@ -11,6 +11,8 @@ public class PrintNumbers {
             return;
         }
         System.out.println(n);
+
+        //This is the tail recursion
         print(n + 1);
     }
 
